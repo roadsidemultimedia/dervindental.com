@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<root>
+
+	<!-- Client Info-->
+	<clientInfo>
+					<clientName>Richard M. Dervin, DDS</clientName>
+					<address1>22002 W 66th St </address1>
+					<address2>Shawnee KS 66226</address2>
+					<phone>913-422-0875 </phone>
+					<fax>913-422-0883</fax>
+					<email>dervindental@kc.rr.com</email>
+					<officeHours>Monday through Thursday, 8 am to 5 pm</officeHours>
+					<copyright><![CDATA[Copyright 2015, Richard M. Dervin, DDS, all rights reserved]]></copyright>
+	</clientInfo>
+	
+	
+	<styling>
+		<!-- General Colors - -->
+		<xmlColor>true</xmlColor>
+		
+		<!-- Footer Colors -->
+		<footer 	FooterColor="true" 
+					TextColor="0xFFFFFF" 
+					Gradient1="0x555555" 
+					Gradient2="0x000000" 
+					Gradient1Alpha="0" 
+					Gradient2Alpha="100" 
+					TopBarColor="0x000000" 
+					TopBarAlpha="50" 
+					BtnColor1="0x7D7461" 
+					BtnColor2="0xffffff" 
+					BtnAlpha="100" 
+					BtnLabelColor="0xffffff" 
+					rColor1="0xC17402" 
+					rColor2="0xffffff" 
+					rAlpha="100" />
+					
+					
+		<phone		fontColor="0xFFFFFF"
+					shadowEnabled = "true"
+					shadowColor="0x000000"
+					shadowAlpha="20"
+					shadowDistance="2"
+					shadowBlur="2"
+					shadowAngle="65" />
+					
+					
+					<!-- 
+					menu type 1: on main menu button rollover, submenu appears in popup
+					menu type 2: on main menu button press, submenu replaces main menu and includes "back" button
+					menu type 3: on main menu button press, submenu appears in a separate area of the main 
+					-->
+		<menu 		mainItemSpacing="2.5" 
+					subItemSpacing="-4" 
+					hideAffiliates="true"
+					hideCallToAction="true"
+					showSubmenuTitle="false"
+					/>
+	</styling>
+	
+	
+	
+	
+	<!--Footer & actionBar Links-->
+	<!--If calling a javascript function, assign *_target to "none"-->
+	<links>
+		<contact 	title="Contact Us" 
+					enabled="true" 
+					target="none">
+		<![CDATA[javascript: myLightWindow.activateWindow({href: 'https://roadside.wufoo.com/forms/z7p4w7/', title: '', type: 'external', width: '700', height: '850', loadingAnimation: 'true'});]]></contact>
+		
+		
+		<schedule 	title="Schedule an Appointment" 
+					enabled="true" 
+					target="none">
+					<![CDATA[javascript: myLightWindow.activateWindow({href: 'https://roadside.wufoo.com/forms/z7p4p3/', title: 'Schedule an Appointment', type: 'external', width: '700', loadingAnimation: 'true'});]]></schedule>
+		
+		
+		<bookmark 	title="Bookmark Us" 
+					enabled="true" 
+					target="none">
+					<![CDATA[javascript: myLightWindow.activateWindow({href: 'http://www.addthis.com/bookmark.php', title: 'Bookmark and Share', type: 'external', width: '640', height: '540',  loadingAnimation: 'true'});]]></bookmark>
+		
+		
+		<subscribe 	title="Subscribe" 
+					enabled="true" 
+					target="none">
+					<![CDATA[javascript: myLightWindow.activateWindow({href: 'rss.rss', title: 'RSS Feed', type: 'external', width: '640',  loadingAnimation: 'true'});]]></subscribe>
+		
+		
+		<roadside 	title="Site by Roadside Multimedia" 
+					enabled="true" 
+					target="_top">
+					<![CDATA[http://roadsidemultimedia.com]]></roadside>
+										
+					
+		<map		title="Map & Directions"
+					enabled="true"
+					target="_self">
+					<![CDATA[http://maps.google.com/maps?f=d&source=s_d&saddr=&daddr=22002+W+66th+St,+Shawnee+KS+66226&hl=en&geocode=&mra=ls&sll=39.010393,-94.840561&sspn=0.007906,0.015235&g=22002+W+66th+St,+Shawnee+KS+66226&ie=UTF8&ll=39.010393,-94.840561&spn=0.007906,0.015235&z=17]]></map>
+					
+					
+		<blog		title="Blog"
+					enabled="true"
+					target="_blank">
+					<![CDATA[http://www.dervindental.com/blog]]></blog>
+	</links>
+	
+	
+	
+	
+	<!--  Music Settings -->
+	<music 			enabled="false" >
+					<track src="assets/music/sound038.mp3" />
+	</music>
+</root>
+<!-- l: nobody -->

@@ -1,0 +1,139 @@
+<p>/*-----------------------------
+RESET STYLES
+-----------------------------*/
+html, body, form, fieldset, p, div, h1, h2, h3, h4, h5, h6{
+	margin:0;
+	padding:0;
+	-webkit-text-size-adjust:none; /* This stops the iPhone from automatically changing the size of the text when you flip the phone */
+	}
+body{
+	font-size: 62.5%; /* 62.5% means 1em = 10px */
+	}
+ul, li, ol, dl, dd, dt{
+	list-style:none;
+	padding:0;
+	margin:0;
+	}
+a{
+	text-decoration:underline; color:#3e5c80;
+	}
+img {border:0;}
+/*-----------------------------
+	SITE SPECIFIC STYLES
+-----------------------------*/
+body{
+	background:#000;
+	font-family: Helvetica; /* Helvetica is on the iPhone already, so you may as well take advantage */
+	color:#222;
+	}
+p{
+	padding-bottom:15px;
+	}
+.content ul {
+	list-style: circle !important;
+}
+.content li {
+	list-style: circle !important;
+	margin-left: 25px;
+	padding-left: 5px;
+}
+.imageborder, .imageborder-left, .imageborder-right {
+  -moz-border-radius: 3px;
+  -webkit-border-radius: 3px; 
+  
+  box-shadow: 0 0 6px #979797;
+  -moz-box-shadow: 0 0 6px #979797;  
+  -webkit-box-shadow: 0 0 6px #979797;
+}
+.imageborder {margin:2px 0;}
+.imageborder-left {float:left; margin:3px 10px 5px 0;}
+.imageborder-right {float:right; margin:3px 0 5px 10px;}
+#tagline {color:#fff; z-index:0; position:absolute; width:305px; top:35px; text-align:right; font-style:italic; margin:0; padding:0; font-size:1.2em;}
+.button {position:relative; background:url('../../images/mobile/rounded-middle.jpg') repeat-y; font-weight:bold; margin:10px 0;}
+.button div {position:absolute; top:16px; right:235px; text-align:right;}
+.button div a {color:#666;}
+.button p {padding:0; margin:5px 0 5px 65px; font-size:1.1em;}
+.button a {text-decoration:none;}
+.button p a {color:#000;}
+#parentLink {background:url('../../images/mobile/back-arrow.png') repeat-y top left; width:36px; height:29px; display:block; position:absolute; left:15px; top:88px;}
+#callUs {background:url('../../images/mobile/call-us.png') repeat-y top left; width:20px; height:29px; display:block; position:absolute; left:285px; top:88px;}
+#email {background:url('../../images/mobile/email.png') repeat-y top left; width:28px; height:29px; display:block; position:absolute; left:242px; top:88px;}
+#mobile-top {width:305px; padding-left:15px;}
+#mobile-top a {margin-left:45px; float:left;}
+#mobile-top a#twitter {background:url('../../images/mobile/twitter.png') repeat-y top left; width:28px; height:29px; display:block; margin-left:0;}
+#mobile-top a#youtube {background:url('../../images/mobile/youtube.png') repeat-y top left; width:23px; height:29px; display:block;}
+#mobile-top a#facebook {background:url('../../images/mobile/facebook.png') repeat-y top left; width:15px; height:29px; display:block;}
+#mobile-top a#callUs {position:static; float:left;}
+#mobile-top a#email {position:static; float:left;}
+	
+#logo {position:absolute; top:8px; left:15px; z-index:1;}
+#logo img { width: 199px;}
+#container {width:320px; padding-top:80px; overflow:hidden; margin:0px 0 0; background:url('../../images/mobile/background.png') repeat-x top left;}
+.top-area {border-top:2px solid #000; height:32px; padding:6px 0 0; background:url('../../images/mobile/black-bar.jpg') repeat-x top left;}
+.top-area a {text-decoration:none;}
+.top-area h1 {color:#fff; text-align:center;}
+#full-site {height:38px; background:url('../../images/mobile/black-bar.jpg') repeat-x top left;}
+#full-site a {display:block; color:#fff; text-decoration:none; font-size:11pt; padding:12px 15px 0; background:url('../../images/mobile/nav-arrow.png') no-repeat 300px 13px;}
+.round-top, .show_flipped .round-top {background:url('../../images/mobile/rounded-top.png') no-repeat top left; width:302px; height:12px;}
+.round-bottom, .show_flipped .round-bottom {background:url('../../images/mobile/rounded-bottom.png') no-repeat top left; width:302px; height:12px; margin-bottom:9px;}
+/*.content, .show_flipped .content {background:url('http://dervindental.com/images/mobile/rounded-center.png') repeat-y top left; width:282px; padding:0 10px;}
+.show_left .round-top, .show_right .round-top {background:url('http://dervindental.com/images/mobile/rounded-wide-top.png') no-repeat top left; width:462px; height:12px;}
+.show_left .round-bottom, .show_right .round-bottom {background:url('http://dervindental.com/images/mobile/rounded-wide-bottom.png') no-repeat top left; width:462px; height:12px;}
+.show_left .content, .show_right .content {background:url('http://dervindental.com/images/mobile/rounded-wide-center.png') repeat-y top left; width:442px; padding:0 10px;}*/
+#navigation {margin:-15px 0 -30px -15px; width:335px;}
+#navigation a {text-decoration:none; display:block; color:#040404; height:26px; padding:12px 15px 0; border-bottom:1px solid #999; border-top:1px solid #fff; font-weight:bold; font-size:15px; background:url('../../images/mobile/nav-arrow.png') no-repeat 300px 13px; position:relative; z-index:1;}
+#navigation a.first {border-top:none;}
+#navigation a.last {border-bottom:none;}
+.footer {color:#fff; width:290px; height:90px; padding:0 15px;}
+.footer p {font-size:11px; padding:11px 0 0;}
+.footer a {color:#fff; text-decoration:none;}
+.clear {clear:both;}
+.bio-pic {float:left; margin:0 5px 5px;}
+.content {width:290px; background:#e5eced; padding:15px 15px 30px 15px; font-size:1.5em;}
+#doctor-pic {float:right; margin-top:-8px; position:relative; z-index:0;}
+.copyright {text-align:center; padding:5px 0; width:320px; background:#e5eced;}
+/*-----------------------------
+	HEADINGS
+-----------------------------*/
+h1,h2,h3,h4,h5,h6 {font-weight:bold; color:#040404;}
+h1 {font-size:14pt; margin-bottom:5px;}
+h2 {font-size:14pt; margin:10px 0 5px;}
+h3 {font-size:11pt; margin:10px 0 5px;}
+h4 {font-size:10pt; margin-bottom:5px;}
+h5 {font-size:8pt; margin-bottom:5px;}
+h6 {font-size:6pt; margin-bottom:5px;}
+h2.service {line-height:36px; width:290px; padding:0 15px; background:url('../../images/mobile/grey-bar.jpg') repeat-x top left; margin:15px 0 15px -15px;}
+h2.service:first-child {margin-top:-15px;}
+/*-----------------------------
+	BASIC LAYOUT
+-----------------------------*/
+#page_wrapper{
+	padding:0px;
+	overflow:auto;
+	}
+/*-----------------------------
+	ORIENTATION CLEVERNESS
+-----------------------------*/
+.content_left,
+.content_right,
+.content_normal,
+.content_flipped{
+	}
+.show_normal,
+.show_flipped{
+	width:320px;
+	min-height:420px;
+	}
+.show_left,
+.show_right{
+	width:480px;
+	min-height:270px;
+	}
+.show_left .content_left,
+.show_right .content_right,
+.show_normal .content_normal,
+.show_flipped .content_flipped{
+	display:block;
+	}
+#content-top {display:none;}
+#toggleSection {display:block !important;}</p>
