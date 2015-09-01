@@ -1,0 +1,8 @@
+<root>
+	<swf src="assets/flash/gallery.swf"/>
+	<image src="assets/images/gallery/case3-1.jpg" type="portrait" pics-in-set="0"></image><image src="assets/images/gallery/case3-2.jpg" type="portrait" pics-in-set="0"></image><image src="assets/images/gallery/case3-3.jpg" type="portrait" pics-in-set="0"></image><image src="assets/images/gallery/case3-4.jpg" type="portrait" pics-in-set="0"></image>
+        <!-- <image src="IMAGE PATH" type="IMAGE TYPE" pics-in-set="0">IMAGE CAPTION</image> -->
+	<heading>Case #3</heading>
+	<text><![CDATA[
+	]]></text>
+</root><!-- l: nobody -->

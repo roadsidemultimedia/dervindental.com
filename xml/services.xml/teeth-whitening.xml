@@ -1,0 +1,15 @@
+<root>
+	<swf src="assets/flash/pic-text-ba.swf"/>
+	<image src="assets/images/services/teeth-whitening-1.jpg" type="ba" pics-in-set="2"></image><image src="assets/images/services/teeth-whitening-2.jpg" type="ba" pics-in-set="0"></image>
+        <!-- <image src="IMAGE PATH" type="IMAGE TYPE" pics-in-set="0">IMAGE CAPTION</image> -->
+	<heading>Teeth Whitening</heading>
+	<text><![CDATA[
+	<p>Is there an upcoming event in your life that requires you to look your very best? We can help you take great pride in your appearance - so you can love displaying your white, glossy celebrity-quality smile.</p>
+
+<p>To help you reach and maintain the shade that best fits your lifestyle, we offer three teeth whitening options — each more effective than its predecessor:</p>
+<ul>
+    <li>Our home-bleaching system — a custom set of bleaching trays made via impressions and modified to brighten the toughest cracks and crevices in your mouth</li>
+    <li>ZOOM® Advanced Power in-office treatment — a same-day treatment option that brightens your teeth anywhere from 5-8 shades in under an hour (includes custom touch-up trays)</li> 
+</ul>
+<p>If you have sensitive teeth, we offer various concentrations and a desensitizing fluoride regiment to prevent any discomfort, while you still thrive from our uplifting dental work. What do you have to lose? A brilliantly white smile awaits you. Call Dr. Richard Dervin to learn more.</p>]]></text>
+</root><!-- l: nobody -->

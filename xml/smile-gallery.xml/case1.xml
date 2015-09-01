@@ -1,12 +1,8 @@
 <root>
 	<swf src="assets/flash/gallery.swf"/>
 	<image src="assets/images/gallery/case1-1.jpg" type="portrait" pics-in-set="0"></image><image src="assets/images/gallery/case1-2.jpg" type="portrait" pics-in-set="0"></image><image src="assets/images/gallery/case1-3.jpg" type="portrait" pics-in-set="0"></image><image src="assets/images/gallery/case1-4.jpg" type="portrait" pics-in-set="0"></image>
-        <custom src="assets/images/gallery/case1-th.jpg" />
-<custom src="assets/images/gallery/case2-th.jpg" />
-<custom src="assets/images/gallery/case3-th.jpg" />
-<custom src="assets/images/gallery/case4-th.jpg" />
-<custom src="assets/images/gallery/case5-th.jpg" />
-	<heading>Smile Gallery</heading>
+        <!-- <image src="IMAGE PATH" type="IMAGE TYPE" pics-in-set="0">IMAGE CAPTION</image> -->
+	<heading>Case #1</heading>
 	<text><![CDATA[
 	]]></text>
 </root><!-- l: nobody -->

@@ -1,0 +1,19 @@
+<root>
+	<swf src="assets/flash/pic-text-ba.swf"/>
+	<image src="assets/images/services/smile-design-1.jpg" type="ba" pics-in-set="2"></image><image src="assets/images/services/smile-design-2.jpg" type="ba" pics-in-set="0"></image>
+        <!-- <image src="IMAGE PATH" type="IMAGE TYPE" pics-in-set="0">IMAGE CAPTION</image> -->
+	<heading>Smile Design</heading>
+	<text><![CDATA[
+	<p>Is there anything about your smile that you aren’t proud of? If your teeth have uneven color or uneven gum lines or are chipped or cracked, even if you have gaps, Dr. Richard Dervin can help you. His dental office has the capability to correct any dental concern, and he would like to sit down with you and explain the smile design process. You could enjoy beautiful smile enhancements for the rest of your life.</p>
+
+<p>Your face was designed to match a certain kind of smile. By evaluating the characteristics of your mouth and face, we help you discover the smile that best matches those features. Dr. Dervin closely examines:</p>
+<ul>
+    <li>The shape & size of your teeth — how this works together is critical for aesthetics</li>
+    <li>The color & shade of your teeth — should match your skin tone, eye and hair color</li>
+    <li>The angles of your teeth — are they aligned in the same direction, or tilted and tipped</li>
+    <li>Your gum tissue — the gum-to-tooth ratio</li>
+    <li>Your facial structure — round, trapezoidal, square, elongated; including facial midline</li>
+    <li>Your “Golden Proportion” — the height-to-width ratio that maintains tooth and smile symmetry</li>
+</ul>
+<p>Once we choose an ideal smile, the entire process may just require two visits, after which, you emerge beautiful, revitalized and younger-looking than you ever thought possible.</p>]]></text>
+</root><!-- l: nobody -->

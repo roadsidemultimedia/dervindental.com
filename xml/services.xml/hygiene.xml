@@ -1,0 +1,22 @@
+<root>
+	<swf src="assets/flash/pic-text.swf"/>
+	<image src="assets/images/services/hygiene.jpg" type="portrait" pics-in-set="0"></image>
+        <!-- <image src="IMAGE PATH" type="IMAGE TYPE" pics-in-set="0">IMAGE CAPTION</image> -->
+	<heading>Hygiene</heading>
+	<text><![CDATA[
+	<p>Every immune system is unique. That’s why our evolutionary hygiene philosophy is a comprehensive, proactive approach from Dr. Richard Dervin. This dental philosophy balances your body’s ability to repel periodontal disease with our technology and expertise to achieve the same goal: complete oral health.</p>
+
+<p>Our evolutionary hygiene program helps you to:</p>
+<ul>
+    <li>Prevent tooth decay and gum disease</li>
+    <li>Create consistent tooth color and gum contour</li>
+    <li>Save money by avoiding expensive procedures</li>
+    <li>Protect against halitosis (chronic bad breath)</li>
+    <li>Enjoy shorter, easier dental visits</li>
+    <li>Improve tooth durability and structural integrity</li>
+    <li>Experience better overall oral health</li>
+</ul>
+<p>We use microsonic scalers, antibacterial rinses and fluoride solutions to treat your entire mouth over multiple visits, allowing your immune system to dictate the frequency and scope of the process. Routine check-ups, cleanings and screenings keep your mouth in tip-top shape, and you may even enjoy the refreshing feel of our cleanings.</p>
+
+<p>Your mouth should function as well as possible for as long as possible — with as little dental intervention as possible. Our proactive, preventive evolutionary hygiene program from Dr. Dervin is the best way to achieve this goal. Learn more - give us a call.</p>]]></text>
+</root><!-- l: nobody -->

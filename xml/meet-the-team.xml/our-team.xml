@@ -1,0 +1,10 @@
+<root>
+	<swf src="assets/flash/pic-text.swf"/>
+	<image src="assets/images/Meet-the-team.jpg" type="portrait" pics-in-set="0">Meet the Team</image>
+        <!-- <image src="IMAGE PATH" type="IMAGE TYPE" pics-in-set="0">IMAGE CAPTION</image> -->
+	<heading>The Team</heading>
+	<text><![CDATA[
+	<p>As our guest, you are the priority for each of our team members. This commitment is a foundation of our team as we continually focus on expertise, results, and personalized attention. At our office or over the phone, we welcome you to meet us and experience excellent dental care and the ways we meet your goals.</p>
+
+<p>Your comfort is our first concern. You will get to know our office and team, while we also get to know you to best serve you with personal care. You'll see why our office is unlike any other. We offer both general and cosmetic dentistry solutions such as smile design, hygiene, teeth whitening, porcelain veneers and more. Please stop by our office and we will be happy to answer any of questions about these advanced services.</p>]]></text>
+</root><!-- l: nobody -->
