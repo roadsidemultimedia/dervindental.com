@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu>
+    <item title="Welcome" next="false" type="swf" path="/xml/welcome.xml"> 
+      </item>
+<item title="Meet the Team" next="true" type="swf" path="/xml/meet-the-team.xml"> 
+          <item title="About Dr. Dervin" next="true" type="swf" path="/xml/meet-the-team.xml/meet-the-doctor"> 
+      </item>
+<item title="The Team" next="true" type="swf" path="/xml/meet-the-team.xml/our-team.xml"> 
+      </item>
+</item>
+<item title="Smile Gallery" next="false" type="gallery" path="/xml/smile-gallery.xml"> 
+          <item title="Case #1" next="false" type="swf" path="/xml/smile-gallery.xml/case1.xml"> 
+      </item>
+<item title="Case #2" next="false" type="swf" path="/xml/smile-gallery.xml/case2.xml"> 
+      </item>
+<item title="Case #3" next="false" type="swf" path="/xml/smile-gallery.xml/case3.xml"> 
+      </item>
+<item title="Case #4" next="false" type="swf" path="/xml/smile-gallery.xml/case4.xml"> 
+      </item>
+<item title="Case #5" next="false" type="swf" path="/xml/smile-gallery.xml/case5.xml"> 
+      </item>
+</item>
+<item title="Services" next="true" type="swf" path="/xml/services.xml"> 
+          <item title="Smile Design" next="true" type="swf" path="/xml/services.xml/smile-design.xml"> 
+      </item>
+<item title="Porcelain Veneers" next="true" type="swf" path="/xml/services.xml/porcelain-veneers.xml"> 
+      </item>
+<item title="Metal-Free Fillings" next="true" type="swf" path="/xml/services.xml/metal-free-fillings.xml"> 
+      </item>
+<item title="Bridges & Crowns" next="true" type="swf" path="/xml/services.xml/bridges-and-crowns.xml"> 
+      </item>
+<item title="Dental Implants" next="true" type="swf" path="/xml/services.xml/dental-implants.xml"> 
+      </item>
+<item title="Bonding" next="true" type="swf" path="/xml/services.xml/bonding.xml"> 
+      </item>
+<item title="Inlays & Onlays" next="true" type="swf" path="/xml/services.xml/inlays-and-onlays.xml"> 
+      </item>
+<item title="Teeth Whitening" next="true" type="swf" path="/xml/services.xml/teeth-whitening.xml"> 
+      </item>
+<item title="TMJ Treatment" next="true" type="swf" path="/xml/services.xml/tmj-treatment.xml"> 
+      </item>
+<item title="Hygiene" next="true" type="swf" path="/xml/services.xml/hygiene.xml"> 
+      </item>
+<item title="Clear Correct" next="true" type="swf" path="/xml/services.xml/clear-correct.xml"> 
+      </item>
+<item title="Pinhole Surgical Technique" next="true" type="swf" path="/xml/services.xml/386"> 
+      </item>
+</item>
+<item title="Patient Information" next="false" type="swf" path="/xml/patient-information.xml"> 
+      </item>
+<item title="Contact Us" next="false" type="swf" path="/xml/contact-us.xml"> 
+      </item>
+<item title="Blog" next="Hidden" type="url" path="http://www.dervindental.com/blog"> 
+      </item>
+
+</menu><!-- l: nobody -->
