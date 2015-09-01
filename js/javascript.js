@@ -229,22 +229,16 @@ if (document.images)
   pic3.src="/images/design/xpress-directions-hover.jpg"; 
   
   pic4= new Image(79,86); 
-  pic4.src="/images/design/contact-hover.gif"; 
 
   pic5= new Image(81,86); 
-  pic5.src="/images/design/blog-hover.gif"; 
 
   pic6= new Image(79,85); 
-  pic6.src="/images/design/directions-hover.gif"; 
 
   pic7= new Image(81,85); 
-  pic7.src="/images/design/forms-hover.gif"; 
 
   pic8= new Image(81,85); 
-  pic8.src="/images/design/rss-hover.gif"; 
 
   pic9= new Image(81,85); 
-  pic9.src="/images/design/appt-hover.gif"; 
 
 
 }
