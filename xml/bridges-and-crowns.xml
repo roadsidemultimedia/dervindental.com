@@ -1,0 +1,14 @@
+<root>
+	<swf src="assets/flash/pic-text-ba.swf"/>
+	<image src="assets/images/services/bridges1.jpg" type="ba" pics-in-set="2"></image><image src="assets/images/services/bridges2.jpg" type="ba" pics-in-set="0"></image>
+        <!-- <image src="IMAGE PATH" type="IMAGE TYPE" pics-in-set="0">IMAGE CAPTION</image> -->
+	<heading>Bridges & Crowns</heading>
+	<text><![CDATA[
+	<p>A crown is a dental restoration that keeps your tooth alive by protecting the root. Modern crowns are made of porcelain, which looks very natural and refracts light in the same was as anatomical teeth. Dr. Richard Dervin uses all-porcelain crowns that replace damaged areas of teeth with amazingly strong, beautiful quality. Dr. Dervin takes extra time and relies upon his prestigious LVI training to meticulously place your crown.</p>
+
+<p>A bridge is a device that replaces one or more missing teeth when a dental implant may not be an option. By anchoring to neighboring teeth, bridges restore complete chewing surfaces. Without a bridge, missing teeth soon cause other teeth to drift, decreasing function and changing your bite. This can lead to reduced chewing efficiency and TMJ (jaw joint) problems.</p>
+
+<p>Since multiple teeth are involved, Dr. Richard Dervin designs your bridge to make it flawlessly indistinguishable from teeth surrounding it. You will never see a thin, dark line where a bridge or crown meets your gums.</p>
+
+<p>“To me, the most important thing I can do as your dentist is to focus on your new smile, that ideal goal. I only remove the absolute minimum tooth structure necessary to achieve the desired results.” — Richard Dervin</p>]]></text>
+</root><!-- l: nobody -->

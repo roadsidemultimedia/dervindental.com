@@ -1,0 +1,12 @@
+<root>
+	<swf src="assets/flash/pic-text.swf"/>
+	<image src="assets/images/services/tmj.jpg" type="portrait" pics-in-set="0"></image>
+        <!-- <image src="IMAGE PATH" type="IMAGE TYPE" pics-in-set="0">IMAGE CAPTION</image> -->
+	<heading>TMJ Treatment</heading>
+	<text><![CDATA[
+	<p>If you suffer from symptoms such as migraines, jaw pain, sinus problems, earaches, ringing in the ears, dizziness or teeth grinding and clenching, neuromuscular dentistry by Dr. Richard Dervin and his expert team can help put an end to your pain!</p>
+
+<p>Neuromuscular dentistry allows Dr. Dervin to approach your care and treatment with a broader, "whole body" focus. Traditional dentistry assumes that your current bite, the way that your teeth fit together, is right for you. Often, this is not the case. Rather than assuming that your present jaw position is optimal, Dr. Dervin uses specialized equipment to study the pattern of your jaw movements and then can diagnose the exact cause and nature of the problem, which allows us to determine the proper course of treatment.</p>
+
+<p>Starting with hygiene and right down to the proper function of your teeth, jaws and muscles, we want to ensure your robust health - dental and otherwise.</p>]]></text>
+</root><!-- l: nobody -->

@@ -1,0 +1,12 @@
+<root>
+	<swf src="assets/flash/pic-text.swf"/>
+	<image src="/images/meet-dr-dervin.jpg" type="portrait" pics-in-set="0"></image>
+        <!-- <image src="IMAGE PATH" type="IMAGE TYPE" pics-in-set="0">IMAGE CAPTION</image> -->
+	<heading>About Dr. Dervin</heading>
+	<text><![CDATA[
+	<p>Richard Dervin is a dentist with a vision. Since beginning his practice, Dr. Dervin has never wavered in his pledge to provide the most advanced dentistry possible, and to do so in a way that is affordable to the greatest number of people. He likes to say, "It’s not good enough for my patients unless it’s good enough for my own family."</p>
+
+<p>After graduating from Kansas University, he earned his DDS from the University of Missouri, Kansas City Dental School in 1988. Since graduating, he has continued his educational journey for the benefit of his patients.</p>
+
+<p>Dr. Dervin is a graduate of the world-renowned Las Vegas Institute for Advanced Dental Studies (LVI), where he obtained the knowledge to treat the more advanced cases in aesthetic and reconstructive needs. Advanced techniques in smile enhancement, treatment for TMJ problems, and full mouth restoration are all possible with this training. He is one of only about 1,500 doctors worldwide that have completed this level of training with LVI.</p>]]></text>
+</root><!-- l: nobody -->

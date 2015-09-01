@@ -1,0 +1,30 @@
+<root>
+	<swf src="assets/flash/pic-text.swf"/>
+	<image src="assets/images/patient-info_flash.jpg" type="portrait" pics-in-set="0"></image>
+        <!-- <image src="IMAGE PATH" type="IMAGE TYPE" pics-in-set="0">IMAGE CAPTION</image> -->
+	<heading>Patient Information</heading>
+	<text><![CDATA[
+	<h3>Patient Forms</h3>
+
+<p>We have provided a way for you to complete your new patient forms prior to arriving at our office. Simply print the forms, complete them and bring them to your appointment for presentation at our front desk.</p>
+
+<p><a href="assets/pdf/ptforms_fillable.pdf">Patient Info</a><br /><a href="http://www.dervindental.com/assets/pdf/consent_for_use_edited.pdf">Consent For Use</a><br /><a href="assets/pdf/privacy_acknowledgment.pdf">Privacy Acknowledgement</a></p>
+
+<h3>Insurance &amp; Financial Arrangements</h3>
+
+<p>As a courtesy to our patients, we submit insurance claims on your behalf.</p>
+
+<p>In addition to submitting insurance claims, our office is dedicated to making your services as easy and affordable as possible. We feel that it is very important for everyone we see to be educated and informed about the procedure that they are interested in.</p>
+
+<p>Financial planning for what can be a substantial purchase is important and we would like you to be well-informed about the cost and payment options for your dental visit. Our Treatment Coordinator will come up with some helpful information to assist in deciding which form of payment will work best for you and your individual needs.</p>
+
+<p>If you have any questions about your options, insurance, or financing, we are here to help.</p>
+
+<ul>
+<li>Payment Options: Cash, Check, VISA, Master Card, Discover Card, and Debit</li>
+<li>Individualized Treatment Plans: personalized treatment planning to phase your treatment to your needs.</li>
+<li>Financing Options: <a href="http://www.carecredit.com/">CareCredit</a></li>
+</ul>
+
+<p>As a third party financing company, CareCredit specializes in financing medical procedures, such as dental work. each follow their own specific guidelines. Above is the link to this company, where you can read more about specific guidelines and fill out their applications on-line.</p>]]></text>
+</root><!-- l: nobody -->

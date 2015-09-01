@@ -1,0 +1,9 @@
+<root>
+	<swf src="assets/flash/contact.swf"/>
+	<image src="assets/images/contact/contact.jpg" type="portrait" pics-in-set="0"></image>
+        <!-- <image src="IMAGE PATH" type="IMAGE TYPE" pics-in-set="0">IMAGE CAPTION</image> -->
+	<heading>Contact Us</heading>
+	<text><![CDATA[
+	<p>For your best visit to a dentist in Shawnee, KS, get in touch with Dr. Dervin's office today. 
+<p><a href="javascript: myLightWindow.activateWindow({href: 'lightwindow.html?id=12', title: '', type: 'external', width: '700', height: '900',  loadingAnimation: 'false'});" class="readmore">Read more...</a></p></p>]]></text>
+</root><!-- l: nobody -->

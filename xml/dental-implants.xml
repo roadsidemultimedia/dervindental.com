@@ -1,0 +1,10 @@
+<root>
+	<swf src="assets/flash/pic-text-ba.swf"/>
+	<image src="assets/images/services/implants1.jpg" type="portrait" pics-in-set="0"></image><image src="assets/images/services/implants2.jpg" type="portrait" pics-in-set="0"></image>
+        <!-- <image src="IMAGE PATH" type="IMAGE TYPE" pics-in-set="0">IMAGE CAPTION</image> -->
+	<heading>Dental Implants</heading>
+	<text><![CDATA[
+	<p>Dental implants are a wonderful way to replace a missing tooth. They look, feel and act more natural than any other type of restoration. They replicate your original tooth from the root up. Dental implants prevent your bone from losing density and don’t require any modification of adjacent teeth to achieve full function.</p>
+
+<p>Dr. Richard Dervin is a strong advocate of dental implants, having performed them for more than 15 years. Dental implants are a great option for anyone who needed an extraction because of excessive decay, for anyone who has lost a tooth due to a sports injury or for those who are tired of wearing dentures. Our dentist office is ready to explain everything and anything you want to know about dental implants. Why? We want to you to be completely comfortable with this fantastic dental option. Call us today.</p>]]></text>
+</root><!-- l: nobody -->

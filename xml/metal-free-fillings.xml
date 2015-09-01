@@ -1,0 +1,16 @@
+<root>
+	<swf src="assets/flash/pic-text-ba.swf"/>
+	<image src="assets/images/services/non-metal-fillings-1.jpg" type="ba" pics-in-set="2"></image><image src="assets/images/services/non-metal-fillings-2.jpg" type="ba" pics-in-set="0"></image>
+        <!-- <image src="IMAGE PATH" type="IMAGE TYPE" pics-in-set="0">IMAGE CAPTION</image> -->
+	<heading>Metal-Free Fillings</heading>
+	<text><![CDATA[
+	<p>With regard to restorative substances that we place inside your mouth, dental work has improved to the point where silver mercury offers no real advantages over non-metal acrylics like ceramic and porcelain, which blend in with the color of your teeth.</p>
+
+<p>Non-metal fillings outperform older materials in several important ways:</p>
+<ul>
+    <li>Unrivaled beauty — they can match existing tooth colors</li>
+    <li>Decrease further decay — with powerful sealing techniques, new materials maximize your protection against future decay</li>
+    <li>No reactions with temperature — unlike metal, acrylics won’t expand or contract as temperatures change inside your mouth</li>
+</ul>
+<p>For superior quality, optimum durability and prolonged beauty, porcelain and ceramic are unrivaled. If you have older metal fillings, we can discuss how you and your mouth will thrive by replacing them with strong and beautiful non-metal fillings.</p>]]></text>
+</root><!-- l: nobody -->

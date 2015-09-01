@@ -1,0 +1,10 @@
+<root>
+	<swf src="assets/flash/pic-text.swf"/>
+	<image src="assets/images/clear-correct-flash(1).jpg" type="portrait" pics-in-set="0"></image>
+        <!-- <image src="IMAGE PATH" type="IMAGE TYPE" pics-in-set="0">IMAGE CAPTION</image> -->
+	<heading>Clear Correct</heading>
+	<text><![CDATA[
+	<p>Discover the joy of showing off your smile! With Clear Correct, you can straighten your smile without braces. Our patients can look great during orthodontic treatment with Clear Correct because our system uses clear aligners that are nearly invisible. They are also removable, so eating your favorite foods and keeping your teeth clean are not affected by your orthodontics.</p>
+
+<p>Straightening your teeth with our clear aligners is a modern method of orthodontics for teens and adults. Clear Correct gently and gradually repositions teeth into a beautiful smile. Clear Correct offers unnoticeable treatment and a smile that's impossible to ignore. </p>]]></text>
+</root><!-- l: nobody -->
