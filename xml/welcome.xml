@@ -1,0 +1,8 @@
+<root>
+	<swf src="assets/flash/welcome.swf"/>
+	<!-- nothing -->
+        <!-- <image src="IMAGE PATH" type="IMAGE TYPE" pics-in-set="0">IMAGE CAPTION</image> -->
+	<heading>Welcome</heading>
+	<text><![CDATA[
+	]]></text>
+</root><!-- l: nobody -->
