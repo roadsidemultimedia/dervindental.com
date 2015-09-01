@@ -2,13 +2,13 @@
 <menu>
     <item title="Welcome" next="false" type="swf" path="/xml/welcome.xml"> 
       </item>
-<item title="Meet the Team" next="true" type="swf" path="/xml/meet-the-team.xml"> 
+<item title="Meet the Team" next="true" type="swf" path="/xml/meet-the-team.xml.xml"> 
           <item title="About Dr. Dervin" next="true" type="swf" path="/xml/meet-the-team.xml/meet-the-doctor"> 
       </item>
 <item title="The Team" next="true" type="swf" path="/xml/meet-the-team.xml/our-team.xml"> 
       </item>
 </item>
-<item title="Smile Gallery" next="false" type="gallery" path="/xml/smile-gallery.xml"> 
+<item title="Smile Gallery" next="false" type="gallery" path="/xml/smile-gallery.xml.xml"> 
           <item title="Case #1" next="false" type="swf" path="/xml/smile-gallery.xml/case1.xml"> 
       </item>
 <item title="Case #2" next="false" type="swf" path="/xml/smile-gallery.xml/case2.xml"> 
@@ -20,7 +20,7 @@
 <item title="Case #5" next="false" type="swf" path="/xml/smile-gallery.xml/case5.xml"> 
       </item>
 </item>
-<item title="Services" next="true" type="swf" path="/xml/services.xml"> 
+<item title="Services" next="true" type="swf" path="/xml/services.xml.xml"> 
           <item title="Smile Design" next="true" type="swf" path="/xml/services.xml/smile-design.xml"> 
       </item>
 <item title="Porcelain Veneers" next="true" type="swf" path="/xml/services.xml/porcelain-veneers.xml"> 
