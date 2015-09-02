@@ -1,0 +1,38 @@
+h1 {
+	color: #265565;
+	font-size: 16px;
+	font-weight: bold;
+	}
+
+h2 {
+	color: #265565;
+	font-size: 14px;
+	font-weight: bold;
+	}
+	
+p { 
+	color: #333333; 
+	font-size: 14px; 
+	}
+
+ul{ 
+	color: #333333; 
+	font-size: 14px; 
+	}	
+	
+a { 
+	color: #265565;
+	font-size: 14px; 
+	text-decoration: underline;
+	}
+	
+a:hover {
+	color: #333333;
+	}
+
+.readmore {
+	color: #265565;
+	font-size:10px;
+	font-weight: bold;
+	text-decoration: underline;
+	}
